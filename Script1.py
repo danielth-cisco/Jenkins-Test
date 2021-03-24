@@ -1,6 +1,6 @@
 
 
-name = input("Enter Name: ")
+name = input("Enter Name:  ")
 
 if(name == "Dan"):
     print("Thats my name")
